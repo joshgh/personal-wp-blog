@@ -1,2 +1,2 @@
-# personal-wp-blog
+# Personal WP Blog
 My personal wordpress blog
