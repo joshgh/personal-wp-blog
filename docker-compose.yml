@@ -1,5 +1,5 @@
 web:
-  image: wordpress:latest
+  image: wordpress:4.8-php7.0-apache
   volumes:
     - ./wp/wp-content:/var/www/html/wp-content
   ports:
