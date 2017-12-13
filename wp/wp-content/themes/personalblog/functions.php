@@ -11,4 +11,4 @@ function personalblog_enqueue_styles() {
     );
 }
 add_action( 'wp_enqueue_scripts', 'personalblog_enqueue_styles' );
-?>
+

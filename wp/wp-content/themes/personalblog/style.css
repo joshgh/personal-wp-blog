@@ -13,3 +13,11 @@
 .site {
   background-color: #F0F0F0;
 }
+
+.entry-content a.more-link, .entry-summary a.more-link {
+  box-shadow: none;
+}
+
+.more-link::after {
+  content: " >>>";
+}
