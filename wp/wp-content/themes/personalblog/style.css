@@ -21,3 +21,7 @@
 .more-link::after {
   content: " >>>";
 }
+
+.site-description {
+  line-height: 1.2;
+}
