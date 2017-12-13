@@ -9,3 +9,7 @@
 .site-footer .site-title:after {
   content: none;
 }
+
+.site {
+  background-color: #F0F0F0;
+}
